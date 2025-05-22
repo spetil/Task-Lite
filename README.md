@@ -1,6 +1,6 @@
 # Task-Lite
 
-Aplicativo feito com Jetpack Compose que permite criar task e definir como feitas,não feitas e pendentes.
+Aplicativo feito com Jetpack Compose que permite criar tarefas e definir como feitas,não feitas e pendentes.
 
 ## 📸 Tela inicial
 
