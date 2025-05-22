@@ -4,7 +4,7 @@ Aplicativo feito com Jetpack Compose que permite criar tarefas e definir como fe
 
 ## 📸 Tela inicial
 
-![Tela 1](foto1.png)
-![Tela 2](foto2.png)
-![Tela 3](foto3.png)
-![Tela 4](foto4.png)
+![Tela 1](foto1.jpeg)
+![Tela 2](foto2.jpeg)
+![Tela 3](foto3.jpeg)
+![Tela 4](foto4.jpeg)
